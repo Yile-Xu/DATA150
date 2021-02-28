@@ -7,6 +7,6 @@
 
 ## Formal Writing Assignments
 
-1. [Annotation](https://yile-xu.github.io/DATA150/annotation.html)
+1. [Annotated Bibliography](https://yile-xu.github.io/DATA150/annotation.html)
 
 
