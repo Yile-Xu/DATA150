@@ -7,7 +7,7 @@
 **Word Count: 1688**
 
 ### Annotation 1
-Wesolowski, Amya, et al. “Quantifying the Impact of Accessibility on Preventive Healthcare in Sub-Saharan Africa Using Mobile Phone Data.” *Epidemiology, Vol.26,* 2015, pp. 223-228.
+**Wesolowski, Amya, et al. “Quantifying the Impact of Accessibility on Preventive Healthcare in Sub-Saharan Africa Using Mobile Phone Data.” *Epidemiology, Vol.26,* 2015, pp. 223-228.**
 
 The development problem this article is seeking to address is the lack of preventive care and access to public health facilities for Kenyans. In Kenya, a large number of child and maternal mortalities are caused by several common factors including poor prenatal care and infectious diseases like diarrhea, malaria, and tuberculosis. These deaths are preventable by public health services like childhood immunization and antenatal care for pregnant women. Poor physical access to health facilities has been identified as an important contributor to this outcome and will be most critical in low-income settings. The main focus of this article is to quantify the relation between physical access to healthcare, actual travel behavior of a community, and the degree of healthcare received, which is the key to identify the role of physical accessibility to health care and alleviate health disparities in local community.
 
@@ -17,7 +17,7 @@ This article relates to Amartya Sen’s definition of human development in the p
 
 
 ### Annotation 2
-Andrew J. Tatem, et al. “Defining approaches to settlement mapping for public health management in Kenya using medium spatial resolution satellite imagery.” *Remote Sensing of Environment, Vol. 93,* 2004, pp 42–52.
+**Andrew J. Tatem, et al. “Defining approaches to settlement mapping for public health management in Kenya using medium spatial resolution satellite imagery.” *Remote Sensing of Environment, Vol. 93,* 2004, pp 42–52.**
 
 This article is trying to address the health consequences of urbanization in some Sub-Saharan Africa countries, especially Kenya from the public health planning perspective. In Africa, about half of the populations live in cities. Although these urban dwellers have significantly better access to health care facilities than their rural counterparts, they are at higher risk from directly transmitted diseases such as tuberculosis and HIV, as well as certain vector-borne diseases such as dengue fever due to the closer distance between settlements and higher population density. The mapping of settlements’ location, size, and distribution are crucial to the planning and management for health consequences of urbanization in the countries of SSA. However, the special resolution of previous settlement and population mappings for Kenya are proved too coarse to develop accurate population estimates at an administrative level fine enough to facilitate effective public. Therefore, the main purpose of this research is to create settlement maps across four contrasting Kenyan districts at a spatial scale fine enough to facilitate applications in public health management like malaria risk mapping, disease burden estimation, and corresponding solution development. 
 
@@ -28,7 +28,7 @@ This article is also related to Amartya Sen’s definition of human development 
 
 
 ### Annotation 3
-Iyer HS, et al. “Geospatial evaluation of trade-offs between equity in physical access to healthcare and health systems efficiency.” *BMJ Global Health 2020;* 5:e003493. 
+**Iyer HS, et al. “Geospatial evaluation of trade-offs between equity in physical access to healthcare and health systems efficiency.” *BMJ Global Health 2020;* 5:e003493.** 
 
 Regarding the improvement of health services in four sub-Saharan African countries: Kenya, Malawi, Rwanda and Tanzania, this article tries to alleviate the issue of health inequality through figuring out the optimal allocation of healthcare resources and promoting equitable physical access to health facilities. When making decisions on health facility distributions, policy-makers always need to balance the trade-offs between equity of geographical accessibility and health system efficiency regarding the economies of scale. To be more specific, allocating health facilities in urban areas with more concentrated population will improve the system’s efficiency because of the economies of scale. However, preferential deployment of services in urban area will exacerbate urban rural disparities and health inequality. In order to achieve more equitable geographical accessibility for the whole country, some efficiency has to be sacrificed. Therefore, the most important idea presented in this work is developing the Geographic-Population Services Access (Geo-PSA) model in order to examine the overtime trade-off between geographical accessibility and health system efficiency of all countries which assists policy-makers to optimize their health facility distributions. 
 
@@ -39,7 +39,7 @@ This article is related to Amartya Sen’s definition of human development in th
 
 
 ### Annotation 4
-Burke, Marshall, et al. “Sources of variation in under-5 mortality across sub-Saharan Africa: a spatial analysis.” *Lancet Glob Health 2016;* 4: e936–45
+**Burke, Marshall, et al. “Sources of variation in under-5 mortality across sub-Saharan Africa: a spatial analysis.” *Lancet Glob Health 2016;* 4: e936–45**
 
 This research tries to address the relative high child mortality and its substantial variations in sub-Saharan Africa. With only 24% decline, Sub-Saharan Africa region failed to meet the Millennium Development Goal of a two-thirds reduction in under-5 mortality rate between 1990 and 2015. Moreover, large differences in progress also exist within sub-Saharan Africa countries. In order to further reduce under-5 mortality rate and at the same time address the remarkable variations in progress, it is important to understand the main sources of variations in mortality.  While some believe that country-level factors like national policies and conditions drive first-order changes in mortality, others believe that subnational variations of mortality and distribution of disease is much more substantial. Regarding this controversy, the main purpose of this article is to analyze and examine the underlying determinants of under-5 mortality by developing high-resolution spatial maps overtime across sub-Saharan Africa. 
 
