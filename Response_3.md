@@ -18,7 +18,7 @@ Ajaokuta steel works in Nigeria is one of the largest investment of steel in the
 
 #### Question 7.  According to Barder, how successful have economic models been at describing and predicting growth over the past 50 years?
 
-According to Barder, the economic growth is rapid over the past 50 years. As the missing ingredient are, Economic models keep modifying the missing ingredients and turning their focus to endogenous, but they still fail to explain the economic growth difference between countries; 
+According to Barder, the economic growth is rapid over the past 50 years. As the missing ingredient are, Economic models keep modifying the missing ingredients and turning their focus to endogenous, but they still fail to explain the economic growth difference between countries. 
 
 #### Question 8.  What was the significance of Schumpeter's idea of creative destruction? How does it relate to firms and institutions? What is co-evolution and why is it significant?
 
