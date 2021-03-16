@@ -28,21 +28,19 @@ Schumpeter’s idea of creative destruction explains the real situation in marke
 A complex adaptive system refers to a complex linear system. This system is difficult to predict in detail, and it keeps moving and becoming even more complex, which implies it does not have an equilibrium. 
 
 #### Question 10.  Who was Haile Sellasie? What is the significance of Kapuscinski's book The Emperor? How did Ethiopia exemplify the suppression of emergent systemic change? Do you agree with this analysis?
-Haile Sellasie was the Emperor of Ethiopia from 1930 to 1974.  Kapuscinski's book The Emperor analyzes the impact of suppression on institutions development on the society because of Haile Sellasie’s dictatorship.  I agree that dictatorship leads to institution failure and also impact the whole society. 
+Haile Sellasie was the Emperor of Ethiopia from 1930 to 1974.  Kapuscinski's book The Emperor analyzes the impact of suppression on institutions development on the society because of Haile Sellasie’s dictatorship. I agree that dictatorship leads to institution failure and also impact the whole society. 
 
 
 #### Question 11.  Why does Barder recommend resisting engineering as a policy implication?  What did he mean by isomorphic mimicry?
-Barder recommend resisting engineering as a policy implication because the changes happened in the evolutionary process is extremely hard to predict. The iso-morphic mimicry means building institutions and processes in weak states which like those found in functional states.
+Barder recommend resisting engineering as a policy implication because the changes happened in the evolutionary process is extremely hard to predict. Isomorphic mimicry is the tendency of governments to mimic other governments’ successes, replicating processes, systems, and even products of the “best practice” examples.
 
 
 #### Question 12.  What did Barder mean by "resist fatalism"? Who was Norman Borlaug and what is the green revolution?
-Resist fatalism indicates that people should not accept whatever outcome of the revolutional progress. Norman Borlaug is a man who brings the Green Revolution by intervening in the evolution process in order to get a higher yield by crossbreeding. His Green Revolution saves a huge amount of people’s lives from starving.
+Resist fatalism means that people should not accept whatever outcome of evolution in terms of development. Norman Borlaug who increases crops' yield by crossbreeding is important in green revolution. Green revolution increased agricultural production worldwide through new technological means. 
 
 #### Question 13.  Barder also recommended to promote innovation, embrace creative destruction and shape development.  What did he mean by these recommendations?
-
-Barber believes that an social environment which encourages innovation should be promoted and people and more importantly is to embrace creative destruction.  In addition, the goal of whole society should involve in shaping development. 
+Barber believes that an social environment which encourages innovation should be promoted and people and more importantly to embrace creative destruction.  In addition, the goal of whole society should involve in shaping development. 
 
 #### Question 14. Who was Nicholas Georgescu-Roegen and what was his insight about economic systems and evolution?
-
 Nicholas Georgescu-Roegen is a mathematician, statistician and economist. He believes that humans should focus more on individuals’ social well beings like happiness instead of pursuing economic growth. 
 
