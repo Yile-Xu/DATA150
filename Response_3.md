@@ -39,7 +39,7 @@ Barder recommend resisting engineering as a policy implication because the chang
 Resist fatalism means that people should not accept whatever outcome of evolution in terms of development. Norman Borlaug who increases crops' yield by crossbreeding is important in green revolution. Green revolution increased agricultural production worldwide through new technological means. 
 
 #### Question 13.  Barder also recommended to promote innovation, embrace creative destruction and shape development.  What did he mean by these recommendations?
-Barber believes that an social environment which encourages innovation should be promoted and people and more importantly to embrace creative destruction.  In addition, the goal of whole society should involve in shaping development. 
+Barber believes that an social environment which encourages innovation should be promoted and more importantly to embrace creative destruction.  In addition, the goal of whole society should involve in shaping development. 
 
 #### Question 14. Who was Nicholas Georgescu-Roegen and what was his insight about economic systems and evolution?
 Nicholas Georgescu-Roegen is a mathematician, statistician and economist. He believes that humans should focus more on individuals’ social well beings like happiness instead of pursuing economic growth. 
