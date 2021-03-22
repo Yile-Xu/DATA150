@@ -1,6 +1,7 @@
 # Literature Review: Addressing health issues in Kenya through the improvement of its public health system 
 
 ## Name: Yile Xu
+
 ## Word Count: 2129
 
 ### Introduction:
