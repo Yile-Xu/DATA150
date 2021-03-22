@@ -1,4 +1,4 @@
-# Response for the Blumenstock article
+# Responses for the Blumenstock article
 
 The world is now experiencing a “data revolution”. The popularization of electronic products especially mobile-phones changes people’s life and generates personal data from them every day. Bluemenstock promisingly convinces that data applications based on these vast amount of emerging data can be used as tools to improve humanitarian aid and global responses to crises. For example, through processing personal data from mobile phones especially the number of international calls and imagery from satellites, algorithms can identify people in poverty and match resources to them effectively. 
 
