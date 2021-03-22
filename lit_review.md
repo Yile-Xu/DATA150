@@ -1,8 +1,7 @@
 # Literature Review: Addressing health issues in Kenya through the improvement of its public health system 
 
-## Name: Yile Xu
-
-## Word Count: 2129
+### Name: Yile Xu
+### Word Count: 2129
 
 ### Introduction:
 The issue of health inequality and low coverage of public health services constantly torment people in developing countries including Kenya. Despite of considerable improvement on public health conditions over the last decades, geographical and socio-economic inequalities in health have persisted in almost all sub-Saharan African countries. People in poverty not have worse health but also suffer from lacking access to needed care services compared to wealthier population groups (Ilinca, et al). According to Amartya Sen’s definition of human development, having sufficient access to high quality public health facilities is an important aspect of social freedom for every human, which is part of overall freedom we are seeking to improve. Therefore, besides economic growth or increase in GDP, almost all the countries in the world have treated achieving health equality as one of their most important develop goals.  This literature review mainly focus on analyzing the main health disparities of Kenya with its causing factors Kenya and systematically study the different aspect of health inequality in context in order to provide insight for proposing solution. 
