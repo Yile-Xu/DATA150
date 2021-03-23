@@ -1,4 +1,4 @@
-# Literature Review: Addressing health issues in Kenya through the improvement of its public health system 
+# Literature Review: Assessing the major health disparities in Kenya and the gap for its health system to reach health equality 
 
 ### Name: Yile Xu
 ### Word Count: 2129
