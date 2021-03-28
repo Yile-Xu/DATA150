@@ -11,4 +11,5 @@
 1. [Annotated Bibliography](https://yile-xu.github.io/DATA150/annotation.html)
 2. [Literature Review](https://yile-xu.github.io/DATA150/lit_review.html)
 
-
+## Extra Credit Response
+1. [3/24 Clare Heinbaugh Talk](https://yile-xu.github.io/DATA150/extra1.html)
