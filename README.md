@@ -14,7 +14,7 @@
 2. [Literature Review](https://yile-xu.github.io/DATA150/lit_review.html)
 3. [Methodological Investigation](https://yile-xu.github.io/DATA150/method.html)
 4. [Final Presentation](https://yile-xu.github.io/DATA150/final_pre.pdf)
-5. [Research Proposal](https://yile-xu.github.io/DATA150/proposal.md)
+5. [Research Proposal](https://yile-xu.github.io/DATA150/proposal.html)
 
 
 ## Extra Credit Response
